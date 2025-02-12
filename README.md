@@ -4,4 +4,4 @@
   
 - 👀 I’m highly interested in Artificial Intelligence and Machine Learning (AI/ML).
   
-- ✨ I possess a high level of proficiency in Python programming.
+- 🚀 I possess a high level of proficiency in Python programming.
